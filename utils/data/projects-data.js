@@ -15,7 +15,7 @@ export const projectsData = [
         role: "Graduate Research Assistant",
         code: 'https://github.com/saitej-avinash/c2rust',
         demo: '',
-        description: 'Worked on Crust, a project focused on automating the conversion of C programs to Rust using genetic improvement techniques. The tool transforms C code into safe, idiomatic Rust while ensuring memory safety and preserving performance, addressing one of the critical challenges in legacy code modernization.'
+        description: 'Worked on Crst, a project focused on automating the conversion of C programs to Rust using genetic improvement techniques. The tool transforms C code into safe, idiomatic Rust while ensuring memory safety and preserving performance, addressing one of the critical challenges in legacy code modernization.'
 
     },
     {
