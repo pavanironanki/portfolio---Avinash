@@ -1,50 +1,30 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer',
-    company: "Signarama",
-    duration: "(Aug 2024 - June 2025)",
-    tools: ['Python', 'Dialogflow', 'Trello', 'Automation', 'Task Management'],
-    image: '/png/signarama.png',
-    description: 'Developed a chatbot using Python and Dialogflow for internal use, improving onboarding and training efficiency by 20%. Designed and implemented automation solutions for Trello boards to streamline task management, resulting in a 35% increase in efficiency.'
+    title: '🚀 Incoming SDE at Amazon',
+    company: "Amazon",
+    duration: "(May 2025 - Aug 2025)",
+    tools: ['Java', 'AWS', 'Software Development', 'Full Stack Development', 'Cloud Computing', 'Distributed Systems'],
+    image: '/png/amazon.png',
+    description: 'Joining Amazon as a Software Development Engineer! Working on impactful projects leveraging AWS services and modern software engineering practices. Contributing to large-scale distributed systems and Amazon\'s core infrastructure.'
   },
   {
     id: 2,
-    title: "Data Science Researcher and Teaching Assistant",
-    company: "University of Maryland",
-    duration: "(May 2023 - Nov 2024)",
-    tools: ['Excel', 'Python', 'Tableau', 'Power BI', 'ETL', 'Data Visualization', 'Natural Language Processing', 'Mentorship'],
-    image: '/png/UMBC.jpg',
-    description: 'Managed 30+ datasets for the Center for Women in Tech assessment, generating 10+ reports and 30+ visualizations using Tableau and Power BI. Mentored 50 students in Natural Language Processing, providing tutoring and feedback. Employed advanced Excel functions and Python for ETL processes and data visualization.'
+    title: 'Graduate Research Assistant',
+    company: "Iowa State University - College of Liberal Arts and Sciences",
+    duration: "(Jan 2024 - Present)",
+    tools: ['Java', 'Python', 'Symbolic Execution', 'PRISM Model Checker', 'Formal Verification', 'Research'],
+    image: '/png/iowa.logo.png',
+    description: 'Conducting advanced research in formal verification and symbolic execution. Working on projects including probabilistic programming verification, distributed quantum systems, and program analysis using PRISM model checker. Contributing to cutting-edge research in computer science and advancing the field of formal methods.'
   },
   {
     id: 3,
     title: 'Software Engineer',
-    company: "Accenture",
-    duration: "(Sept 2021- Aug 2022)",
-    tools: ['ASP.NET','Core MVC', 'MySQL', 'Jenkins', 'CI/CD', 'Unit Testing', 'Performance Optimization', 'Troubleshooting'],
-    image: '/png/accenture.png',
-    description: 'Redesigned an internal time tracker application using ASP.NET Core MVC, improving user experience and increasing reporting efficiency by 25%. Optimized application performance with unit testing and CI/CD pipelines using Jenkins, resulting in a 15-18% increase in page load times. Utilized advanced debugging and automated testing to achieve a 20% faster page load time.'
-  },
-  {
-    id: 4,
-    title: 'Software Engineer',
-    company: "La Net Team Software Solutions",
-    duration: "(Jan 2021 - Sept 2021)",
-    tools: ['React Native', 'TypeScript', 'Redux', 'AWS Amplify', 'AWS CloudWatch', 'AWS Pinpoint', 'Real-time Tracking', 'Multilingual Support'],
-    image: '/png/lanet.jpeg',
-    description: 'Designed and built a ridesharing application using React Native and TypeScript, integrating AWS services like Amplify, CloudWatch, and Pinpoint for efficient data management. Developed a restaurant application with real-time order tracking, interactive menus, and multilingual support, reducing order processing time by 30%.'
-  },
-   {
-    id: 5,
-    title: "Software Intern",
-    company: "Mokshit Infotech",
-    duration: "(May 2020 - Dec 2020)",
-    tools: ["React Native", "Node.js", "TypeScript", "Azure Services"],
-    image: '/png/mokshit.jpeg',
-    description: [
-      "Developed and maintained a cross-platform mobile application using React Native, seamlessly integrating Azure services to support and manage over 10,000 daily active users. Optimized server-side APIs with Node.js and TypeScript, reducing response times by 30% and enabling efficient data handling."
-    ]
-  } 
+    company: "HCL Technologies Ltd",
+    duration: "(Sep 2020 - Jul 2023)",
+    tools: ['Java', 'Python', 'Technical Documentation', 'Business Understanding', 'SQL', 'Full Stack Development', 'System Design'],
+    image: '/png/hcltech.png',
+    description: 'Worked as a full-time Software Engineer at HCL Technologies for 2 years and 11 months. Developed and maintained enterprise applications, focusing on backend development with Java and Python. Contributed to multiple client projects with emphasis on code quality, documentation, and business requirement analysis.'
+  }
 ]
 

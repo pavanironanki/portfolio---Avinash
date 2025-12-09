@@ -1,50 +1,50 @@
 export const projectsData = [
     {
         id: 1,
-        name: 'Cab Around',
-        tools: ['React Native', 'GraphQL', 'AWS', 'AWS Amplify', 'AWS S3', 'AWS CloudWatch'],
-        role: "Software Engineer",
-        code: '',
-        demo: 'https://youtube.com/playlist?list=PLQePrdBWxlsXQREK6iZuaEPGVOKFoVBWh&si=GTli4NfW1-7ZAo7y',
-        description: 'Engineered a dual ridesharing app using React Native, GraphQL, and AWS services, achieving 99.5% uptime. Key features include vehicle-type booking, real-time driver updates, seamless payments, a chatbot boosting engagement by 15%, trip histories, and saved locations for 25% quicker bookings.'
+        name: 'Symbolic Execution with PRISM Verification',
+        tools: ['Python', 'Symbolic Execution', 'PRISM Model Checker', 'pWhile Syntax', 'Formal Verification'],
+        role: "Graduate Research Assistant",
+        code: 'https://github.com/saitej-avinash/Probabilistic-Programming',
+        demo: '',
+        description: 'Developed a tool that converts programs into symbolic form (pWhile syntax), computes branch probabilities, and verifies them using the PRISM model checker. Combines symbolic execution and probabilistic programming to analyze randomized program behavior for formal verification.'
     },
     {
         id: 2,
-        name: 'Digi Mart',
-        tools: ['Java', 'MVC Architecture', 'HTML5', 'CSS3', 'JavaScript', 'Docker', 'Kubernetes', 'AWS'],
-        role: "Software Engineer",
-        code: '',
+        name: 'C-2-Rust: Automatic C to Rust Code Conversion',
+        tools: ['C', 'Rust', 'Genetic Improvement', 'Program Transformation', 'Memory Safety'],
+        role: "Graduate Research Assistant",
+        code: 'https://github.com/saitej-avinash/c2rust',
         demo: '',
-        description: 'Designed, developed, and deployed an e-commerce website with secure payment gateway integration, utilizing Java, MVC architecture, HTML5, CSS3, JavaScript, and third-party APIs. Containerized the application using Docker and deployed on a Kubernetes cluster for improved scalability and reliability.'
+        description: 'Worked on Crust, a project focused on automating the conversion of C programs to Rust using genetic improvement techniques. The tool transforms C code into safe, idiomatic Rust while ensuring memory safety and preserving performance, addressing one of the critical challenges in legacy code modernization.'
 
     },
     {
         id: 3,
-        name: 'Smart Personal Finance Assistant',
-        tools: ['Python', 'React.js','AWS','JavaScript', 'Machine Learning', 'Predictive Analytics', 'Pandas'],
-        role: "Software Engineer",
-        code: '',
-        demo: '',
-        description: 'Developed a personal finance assistant using Python and React.js that helps users manage their expenses and savings through predictive analytics and personalized insights, resulting in a 25% increase in savings over six months. Created a machine learning model leveraging historical spending data to categorize transactions and forecast monthly budgets with 90% accuracy.'
+        name: 'DisQ: A Markov Decision Process Based Language for Quantum Distributed Systems',
+        tools: ['Java', 'Python', 'COQ', 'Quantum Computing', 'Distributed Systems', 'MDP'],
+        role: "Graduate Research Assistant",
+        code: 'https://github.com/saitej-avinash/DisQ',
+        demo: 'https://github.com/DisQ-Simulation-in-Java',
+        description: 'Developed DisQ, a framework designed to facilitate the rewriting of quantum algorithms into their distributed versions. DisQ integrates concepts from the Chemical Abstract Machine (CHAM) and Markov Decision Processes (MDP) to define quantum concurrent and distributed behaviors, enabling implementation on limited quantum computers.'
 
     },
     {
         id: 4,
-        name: "Flow - Travel Assistant",
-        tools: ["React Native", "Axios", "OpenAI API", "JavaScript", "Node.js"],
-        role: "Software Engineer",
-        code: "",
+        name: "Smart-Round-Robin: Intelligent OS Scheduling",
+        tools: ["C", "Operating Systems", "Process Scheduling", "Algorithm Optimization"],
+        role: "Graduate Research Student",
+        code: "https://github.com/saitej-avinash/SmartRoundRobin",
         demo: "",
-        description: "Developed a  travel assistant mobile app using React Native that provides personalized travel recommendations and real-time assistance to users. Integrated OpenAI API to enable natural language processing for user queries, resulting in 40% more efficient trip planning."
+        description: "Enhanced the Round Robin (RR) scheduling algorithm in operating systems through intelligent optimizations. Compared performance with other scheduling algorithms to determine the impact of enhancements on system efficiency and overall operating system performance, resulting in measurable improvements."
     },
-        {
+    {
         id: 5,
-        name: "Weather Assistant",
-        tools: ["React Native", "TypeScript", "Open-Meteo API", "AWS", "iOS Notifications"],
-        role: "Software Engineer",
-        code: "",
+        name: "Spam Detection using Recurrent Neural Networks",
+        tools: ["Python", "Machine Learning", "Jupyter", "LSTM", "GRU", "Neural Networks"],
+        role: "Software Developer",
+        code: "https://github.com/saitej-avinash/spam-detection-using-RNN",
         demo: "",
-        description: "A sleek mobile application that acts as a personal weather assistant, providing real-time weather updates and additional insights using the Open-Meteo API. The app includes a modern UI, backend integration, and iOS notifications for unique weather updates."
+        description: "Developed an email spam detection system using RNN-based models such as LSTM and GRU. The classification task involves identifying emails as either spam or ham (non-spam), achieving high accuracy through advanced deep learning techniques and neural network optimization."
     },
     
 ];

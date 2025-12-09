@@ -1,19 +1,19 @@
 export const educations = [
   {
     id: 1,
-    title: "Masters Degree",
-    duration: "2022 - 2024",
-    institution: "University of Maryland, Baltimore County",
-    gpa: "GPA: 4.0/4.0",
-    image: '/png/UMBC.jpg'
+    title: "Master of Science",
+    duration: "2023 - Present",
+    institution: "Iowa State University - College of Liberal Arts and Sciences",
+    gpa: "GPA: 3.93/4.00",
+    image: '/png/iowa.logo.png'
   },
   {
     id: 2,
-    title: "Bachelors Degree",
-    duration: "2017 - 2021",
-    institution: "Uka Tarsadia University",
-    gpa: "CGPA: 9.85/10",
-    image: '/png/utu.png'
+    title: "Bachelor of Technology",
+    duration: "Jul 2016 - Jul 2020",
+    institution: "MVGR College of Engineering",
+    gpa: "CGPA: 8.94/10.00",
+    image: '/png/mvgrlogo.jpeg'
   }
 
 ]
